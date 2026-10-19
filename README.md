@@ -2,9 +2,25 @@
 
 源览是一款 Chrome 扩展，可在百度网盘网页版中预览已上传 PSD 的最终合成画面，不必先把完整源文件下载到电脑。
 
+**[下载最新版本](https://github.com/DsCtrlCreate/design-peek/releases/latest)**
+
+## 使用演示
+
+### 1. 在百度网盘找到 PSD，点击“快速预览”
+
+![PSD 文件旁显示快速预览按钮](assets/01-quick-preview-button.png)
+
+### 2. 扩展分段读取 PSD 的最终合成图
+
+![正在读取 PSD 合成预览](assets/02-reading-composite.png)
+
+### 3. 直接在浏览器中查看预览结果
+
+![PSD 最终合成图预览结果](assets/03-preview-result.png)
+
 ## 下载
 
-请在本仓库的 **Releases** 页面下载最新的 `design-peek-v0.1.0.zip`。
+请在本仓库的 **Releases** 页面下载最新的 `design-peek-v0.1.0.zip`，也可以点击上方“下载最新版本”。
 
 GitHub 自动显示的 “Source code (zip)” 不是扩展安装包，请下载 Release 中单独上传、文件名以 `design-peek-` 开头的 ZIP。
 
